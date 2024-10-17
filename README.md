@@ -5,7 +5,7 @@ i'm a Senior High School, currently make this GitHub for my portfolio👍
 
 ### <summary><strong>My Language & Tools: 👇 <strong/><summary/>
 <p>
- <img src= "![image](https://github.com/user-attachments/assets/b4af8bb1-4478-4164-854f-c8df3ce8e640)"/>
+ <img src= "https://icons8.com/icons/set/html"/>
 
 "/>
 </p>
