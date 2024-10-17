@@ -5,6 +5,6 @@ i'm a Senior High School, currently make this GitHub for my portfolio👍
 
 ### <summary><strong>My Language & Tools: 👇 <strong/><summary/>
 <p>
- <img src= "![icons8-html-48](https://github.com/user-attachments/assets/66e01052-9e24-4a76-ac3d-c7afa8392d54)"/>
+ <img src= "https://github.com/user-attachments/assets/66e01052-9e24-4a76-ac3d-c7afa8392d54"/>
 </p>
 
