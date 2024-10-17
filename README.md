@@ -5,5 +5,5 @@ i'm a Senior High School, currently make this GitHub for my portfolio👍
 
 ### <summary><strong>My Language & Tools: 👇 <strong/><summary/>
 <p>
-  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+ <img src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kopstorm.com%2Fen%2Fblog%2Fwat-is-html-en-hoe-werkt-het&psig=AOvVaw1QYZzseFQrVQsj0w4t9lkk&ust=1729259651897000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjc-q3IlYkDFQAAAAAdAAAAABAE"/>
 </p>
