@@ -14,6 +14,8 @@ i'm a Senior High School, currently make this GitHub for my portfolio👍
  <img src= "https://github.com/user-attachments/assets/3b1fb213-48f5-444d-ab0a-48eae5c17ade"/>
  <img src= "https://github.com/user-attachments/assets/0b5fadc3-f283-4519-84e2-c9f08895864e"/>
  <img src= "https://github.com/user-attachments/assets/8854ee24-6912-4120-af92-fd67cbb18c20"/>
- <img src= "https://github.com/user-attachments/assets/02742c88-2d79-4ac0-bf9a-5d8736bc767f)"/>
+ <img src= "https://github.com/user-attachments/assets/02742c88-2d79-4ac0-bf9a-5d8736bc767f"/>
 </p>
+
+
 
