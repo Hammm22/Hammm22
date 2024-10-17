@@ -6,18 +6,10 @@ i'm a Senior High School, currently make this GitHub for my portfolio👍
 ### <summary><strong>My Language & Tools: 👇 <strong/><summary/>
 <p>
  <img src= "https://github.com/user-attachments/assets/e22e14bd-40ea-450e-a60c-89de1e22415c"/>
- <img src= "https://github.com/user-attachments/assets/43364d59-b2d1-4baa-a0aa-a6dab4a661fc
-"/>
- <img src= "https://github.com/user-attachments/assets/afb0d254-5144-4517-9c12-b48eb931f663
-"/>
-  <img src= "https://github.com/user-attachments/assets/0d272acd-7299-477c-8ac3-a7c1c3e7f515
-"/>
+ <img src= "https://github.com/user-attachments/assets/43364d59-b2d1-4baa-a0aa-a6dab4a661fc"/>
+ <img src= "https://github.com/user-attachments/assets/afb0d254-5144-4517-9c12-b48eb931f663"/>
+  <img src= "https://github.com/user-attachments/assets/0d272acd-7299-477c-8ac3-a7c1c3e7f515"/>
  <img src= "https://github.com/user-attachments/assets/66e01052-9e24-4a76-ac3d-c7afa8392d54"/>
- <img src= ""/>
- <img src= ""/>
- <img src= ""/>
- <img src= ""/>
 
- <img src= ""/>
 </p>
 
