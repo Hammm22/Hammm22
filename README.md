@@ -1,17 +1,51 @@
-# <summary><strong>Hi Guys, I'am Ilham from Indonesia 👋</strong></summary>
-i'm a Senior High School, currently make this GitHub for my portfolio👍
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hammm22&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+# Hi, I'm Ilham
 
-### <summary><strong>My Language & Tools: 👇 <strong/><summary/>
-<p>
- <img src= "https://github.com/user-attachments/assets/e22e14bd-40ea-450e-a60c-89de1e22415c"/>
-  <img src= "https://github.com/user-attachments/assets/0d272acd-7299-477c-8ac3-a7c1c3e7f515"/>
- <img src= "https://github.com/user-attachments/assets/66e01052-9e24-4a76-ac3d-c7afa8392d54"/>
-  <img src= "https://github.com/user-attachments/assets/0c33df06-c3c2-4a85-bc0b-384a482c598a"/>
- <img src= "https://github.com/user-attachments/assets/3b1fb213-48f5-444d-ab0a-48eae5c17ade"/>
- <img src= "https://github.com/user-attachments/assets/0b5fadc3-f283-4519-84e2-c9f08895864e"/>
-</p>
+I am a high school student from Indonesia with a strong interest in frontend development and modern web technologies. I focus on building clean, responsive, and user-friendly interfaces.
 
+---
 
+## About Me
 
+* Currently learning React and Laravel
+* Interested in UI/UX design and web animations
+* Building projects to improve real-world development skills
+
+---
+
+## Tech Stack
+
+* Frontend: React, Tailwind CSS
+* Backend: Laravel
+* Tools: Git, VS Code
+
+---
+
+## Projects
+
+Here are some of my highlighted projects:
+
+* MovieList Website
+  A modern movie browsing application with real-time search, cinematic UI, and smooth transitions.
+
+* Portfolio Website
+  Personal website showcasing projects, animations, and UI design approach.
+
+---
+
+## Goals
+
+* Improve fullstack development skills
+* Build real-world projects
+* Prepare for internship or junior developer role
+
+---
+
+## Contact
+
+* GitHub: https://github.com/Hammm22
+
+---
+
+## Notes
+
+This GitHub is used as a portfolio to document my learning journey and projects.
